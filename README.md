@@ -1,5 +1,5 @@
 # #ukup-landing-page
-Landing page untuk perusahaan agensi UMKM bernama UKUP (UMKM Go UP). Desain responsive dan mobile friendly
+Landing page untuk perusahaan agensi UMKM bernama UKUP (UMKM Go UP). Dibuat untuk mengikuti perlombaan Front End Competition UKM Computer PNB Tahun 2022. Desain responsive dan mobile friendly
 
 # #Teknologi
 1. Bootstrap v5.0.2
